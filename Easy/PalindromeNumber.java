@@ -19,6 +19,6 @@ public class PalindromeNumber {
     public static void main(String[] args) {
         int x = 121;
         boolean result = palindromeNumber(x);
-        System.out.println(result);
+        System.out.println(result); // true
     }
 }
